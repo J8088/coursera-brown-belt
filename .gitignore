@@ -1,0 +1,7 @@
+Debug/
+Release/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.rar
